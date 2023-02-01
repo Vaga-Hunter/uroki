@@ -1,0 +1,22 @@
+.momo{
+    color: rgb(76, 76, 35);             
+    font-size: 50pt;
+    margin-top: 200px;
+}
+.mystyle{
+    color: rgb(255, 255, 255);
+    background: rgb(221, 23, 23);
+    font-size: 30pt;
+    padding: 10px 30px 5px 20px;
+    margin: 100px;
+    text-align: center;color: rgb(166, 121, 207);
+}
+table,tr,th {
+    border: 1px solid black;
+}
+tr {
+    height: 40px;
+}
+th {
+    min-width: 150px;
+}
